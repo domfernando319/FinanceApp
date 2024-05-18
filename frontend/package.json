@@ -56,5 +56,9 @@
     "@types/react-router-dom": "^5.3.3",
     "@types/uuid": "^9.0.2",
     "tailwindcss": "^3.3.3"
-  }
+  },
+  "description": "FinShark helps investors find relavent financial documents without the noise of short-term data.",
+  "main": "tailwind.config.js",
+  "author": "",
+  "license": "ISC"
 }
